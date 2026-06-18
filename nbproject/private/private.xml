@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/davi/Projects/Stockify/src/main/Main.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/config/Konfigurasi.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/controller/BarangController.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/model/BarangModel.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/controller/UserController.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/model/UserModel.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/controller/PemasokController.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/model/PemasokModel.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/controller/TransaksiController.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/model/TransaksiModel.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/view/BarangView.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/view/DashboardView.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/view/LoginView.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/view/SupplierView.java</file>
+            <file>file:/home/davi/Projects/Stockify/src/view/TransaksiView.java</file>
+        </group>
+    </open-files>
+</project-private>
